@@ -109,3 +109,7 @@ const Header = () => {
 }
 
 export default Header
+
+
+// "homepage": "https://Nisa-Akter.github.io/orebi",
+// "deploy": "gh-pages -d dist"
